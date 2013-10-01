@@ -1,0 +1,9 @@
+; Default information for theme works
+
+name = "temasol"
+description = "sub-tema do bartik para site do psol"
+core = "7.x"
+version = "7.x-1.0"
+base theme = "bartik"
+
+; Copy regions from top theme
