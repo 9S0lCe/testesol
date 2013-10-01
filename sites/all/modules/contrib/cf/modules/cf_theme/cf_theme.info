@@ -1,0 +1,16 @@
+name = CF Theme
+description = "Provides theme specific functions to be called by themes."
+core = 7.x
+php = 5.3
+package = Common Functionality
+
+dependencies[] = cf
+
+files[] = cf_theme.module
+
+; Information added by drupal.org packaging script on 2013-07-31
+version = "7.x-2.0-beta1"
+core = "7.x"
+project = "cf"
+datestamp = "1375305668"
+
